@@ -276,10 +276,15 @@ img {
   color: var(--clr-primary);
 }
 
+/* Catalogue */
+.catalogue{
+  background-color: var(--clr-tertiary);
+}
+
 /* Assets */
 /* Header */
 .header {
-  background-color: var(--clr-secondary);
+  background-color: var(--clr-tertiary);
 }
 .header__wrapper {
   display: flex;
