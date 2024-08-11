@@ -349,7 +349,6 @@ img {
 .catalogue__list .item {
   display: grid;
   grid-template-columns: 10rem 1fr 1fr;
-  /* gap: 4rem; */
 }
 .item img {
   width: 8rem;
@@ -392,6 +391,7 @@ img {
 .catalogue__large p {
   font-size: var(--p);
 }
+
 /* Assets */
 /* Header */
 .header {
